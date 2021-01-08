@@ -1,0 +1,58 @@
+.first-section-text{
+    margin-top: 18%;
+}
+.table-pictures{
+    margin-top: -18%;
+}
+
+
+@media screen and (min-width:300px) and (max-width:564px) {
+    .section-text{
+
+    }
+    .table-pictures{
+        margin-right: -250px;
+    }
+    .third-section-button{
+        margin-left: 100px;
+    }
+    .fifth-section-reviews{
+        margin-left: -50px;
+    }
+    .sixth-section-text{
+        margin-left: -50px;
+    }
+    .section-input-group{
+        margin-left: 150px;
+    }
+    .seventh-section-copyright{
+        margin-left: 150px;
+    }
+}
+
+@media screen and (min-width:300px) and (max-width:730px){
+    .fourth-section-desk{
+        padding-bottom: 50px;
+    }
+    .fourth-section-chair{
+        padding-bottom: 50px;
+    }
+    .fourth-section-book{
+        padding-bottom: 50px;
+    }
+    .seventh-section-contacts{
+        padding-bottom: 50px;
+    }
+}
+
+@media screen and (min-width:300px) and (max-width:876px){
+    .second-section-text{
+        padding-left: 100px;
+    }
+}
+
+@media screen and (min-width:300px) and (max-width:885px){
+    .second-section-spatula{
+        margin-left: 100px;
+    }
+}
