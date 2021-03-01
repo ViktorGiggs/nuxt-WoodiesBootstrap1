@@ -1,6 +1,6 @@
 <template>
   <section class="first-section">
-    <img class="rounded float-right img-fluid d-block table-pictures" src="/pictures/Group23.png" alt="table">
+    <img class="rounded float-right img-fluid d-block table-pictures" src="~/assets/pictures/Group23.png" alt="table">
     <div class="container-fluid first-section-text">
       <div class="row">
         <div class="col">
@@ -17,7 +17,7 @@
         </div>
       </div>
     </div>
-    <img class="img-fluid mt-5 pt-5 pb-5 d-block mx-auto" src="/pictures/Group40.png" alt="line">
+    <img class="img-fluid mt-5 pt-5 pb-5 d-block mx-auto" src="~/assets/pictures/Group40.png" alt="line">
   </section>
 </template>
 

@@ -1,17 +1,17 @@
 <template>
   <div>
   <section class="fifth-section">
-    <img class="img-fluid mt-5 pt-5 pb-5 d-block mx-auto text-center" src="/pictures/Group37.png" alt="line">
+    <img class="img-fluid mt-5 pt-5 pb-5 d-block mx-auto text-center" src="~/assets/pictures/Group37.png" alt="line">
     <div class="container-fluid">
       <div class="row ml-5 pl-5">
         <div class="container-fluid col">
-          <img src="/pictures/Group65.png" alt="interior">
+          <img src="~/assets/pictures/Group65.png" alt="interior">
         </div>
         <div class="container-fluid col">
-          <img src="/pictures/Group66.png" alt="interior">
+          <img src="~/assets/pictures/Group66.png" alt="interior">
         </div>
         <div class="container-fluid col fifth-section-reviews">
-          <img src="/pictures/Group59.png" alt="reviews">
+          <img src="~/assets/pictures/Group59.png" alt="reviews">
         </div>
       </div>
     </div>
@@ -40,11 +40,11 @@
   </section>
   <!-- Section end-->
   <section class="seventh-section">
-    <img class="img-fluid mt-5 pt-5 pb-5 " src="/pictures/Line5.png" alt="line">
+    <img class="img-fluid mt-5 pt-5 pb-5 " src="~/assets/pictures/Line5.png" alt="line">
     <div class="container-fluid">
       <div class="row">
         <div class="col container-fluid seventh-section-contacts">
-          <div class="col container-fluid"><img src="/pictures/Group28.png" alt="woodies"></div>
+          <div class="col container-fluid"><img src="~/assets/pictures/Group28.png" alt="woodies"></div>
           <p></p>
           <div class="col container-fluid">(012) 8967453</div>
           <p></p>

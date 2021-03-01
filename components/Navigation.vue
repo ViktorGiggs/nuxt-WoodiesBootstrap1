@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar navbar-expand-md navbar-light">
     <div class="container-fluid ">
-      <a href="#" class="navbar-brand"><img src="/pictures/Group28.png" class="navbar-brand-img" alt="logo"></a>
+      <a href="#" class="navbar-brand"><img src="~/assets/pictures/Group28.png" class="navbar-brand-img" alt="logo"></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
         <span class="navbar-toggler-icon"></span>
       </button>
